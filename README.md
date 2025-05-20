@@ -53,5 +53,5 @@ Um jogo interativo que transforma o autocuidado em missões diárias! Dona Bened
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/vida-benedita.git
+git clone https://github.com/seu-usuario/benebit.git
 
